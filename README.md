@@ -82,7 +82,8 @@ This synergy builds a **next-gen security layer** for DeFi protocols.
 
 ## 👥 Team  
 - **Lead Developer**: Shashi Pandey (S.P)  
-- **Team Members**: Akarshan kumar
+- **Team Members**:
+-                   Akarshan kumar
 -                   Ayushi Singh
 -                   Rudransh Nautiyal   
 
